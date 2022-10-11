@@ -1,0 +1,7 @@
+Variables = es un número o palabra asignado por uno mismo dentro del código que vamos a usar luego
+Strings = es un conjunto de texto que se define entre comillas
+Booleans = son expresiones que arrojan como resultado únicamente dos resultados true o false
+Undefined = es una variable que no está definida todavía no existe en el código, no tiene ningún valor o palabra
+Null = es una variable que si está definida por uno mismo pero su valor es nada si existe en el código
+Operadores = son los símbolos que indican a javascrpit que se debe realizar una operación matemática similares a los de una calculadora +,-,/,* y %
+== vs. === son operadores de comparación, == compara si dos variables son iguales sin tener en cuenta el tipo como 1 y '1' arrojará true, en cambio === compara si son exactamente iguales 1 y '1' arrojará false
