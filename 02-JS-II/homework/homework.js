@@ -49,7 +49,7 @@ function devolverString(str) {
     // Devuelve "true" si las dos strings tienen la misma longitud
     // De lo contrario, devuelve "false"
     // Tu código:
-   if (str1.length == str2.length) {return true}
+   if (str1.length === str2.length) {return true}
     else {return false}
     }
   
@@ -57,7 +57,7 @@ function devolverString(str) {
     // Devuelve "true" si el argumento de la función "num" es menor que noventa
     // De lo contrario, devuelve "false"
     // Tu código:
-    if (num <90) {return true}
+    if (num < 90) {return true}
     else {return false}
   }
   
@@ -87,7 +87,7 @@ function devolverString(str) {
     // Devuelve "true" si "num" es impar
     // De lo contrario, devuelve "false"
     // Tu código:
-    if (num % 2 != 0) {return true}
+    if (num % 2 !== 0) {return true}
     else {return false}
   }
   
